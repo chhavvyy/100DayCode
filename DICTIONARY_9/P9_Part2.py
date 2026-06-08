@@ -7,8 +7,7 @@
 
 
 
-import art
-print(art.logo)
+
 def find_highest_bidder(bidding_dict):
     winner=""
     highest_bid=0
